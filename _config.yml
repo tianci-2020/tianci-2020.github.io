@@ -1,7 +1,8 @@
 # Site settings
 title: tianci
+
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  在这个平台展示我所学我所用
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://tianci-2020.github.io" # the base hostname & protocol for your site

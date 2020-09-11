@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello
-subtitle: My name is Pudhina
+title: 你好
+subtitle: 我叫陆天赐
 sitemap:
   priority: 0.9
 ---
